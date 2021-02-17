@@ -1,9 +1,9 @@
-# Fragrance-selector
+# Fragrance-selector for windows
 Fragrance-selector lets you add the name of a fragrance and then it automatically gets the seasons and day/night ratings of that fragrance from the fragrantica.com site. You can then randomize the fragrances for your specific season or time of day. 
 The randomize uses algorithms which take the number of votes, seasons percentages and day/night percentages. The result of the randomize can be sent to your email. 
 NOTE: This represents a project to hone and show my python skills and also to satisfy my problem of not being able to decide what perfume to wear. :D
 
-More updates will be made for this. One being a adding a  Graphical User Interface.
+More updates will be made for this. For example, adding a  Graphical User Interface and compatibility for other systems other than Windows.
 
 PART I - Adding a fragrance
 
@@ -27,3 +27,4 @@ PART III - OTHER
 
 You have the choices to also view all your fragrances. The format is not the most refined. Further updates will be made.
 You can also delete fragrances if you do not have them anymore. This is possible only if you corectly type the name. One recommandation would be to show all the fragrances and copy exactly the name from there.
+
